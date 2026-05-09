@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(\\(New-Object System.Net.WebClient\\).DownloadString\\(\"http://localhost:8765/api/health\"\\))",
+      "PowerShell(\\(New-Object System.Net.WebClient\\).DownloadString\\(\"http://localhost:8765/\"\\) | Select-Object -First 3)"
+    ]
+  }
+}
