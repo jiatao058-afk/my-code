@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude --version)",
+      "Read(//c/Users/taoji/AppData/Local/Android/Sdk/platforms/**)",
+      "Bash(cmd.exe /c \"xcopy android-36.1 android-36 /E /I /Q\")"
+    ]
+  }
+}

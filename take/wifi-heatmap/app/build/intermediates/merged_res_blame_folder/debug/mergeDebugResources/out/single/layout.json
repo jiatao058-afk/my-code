@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.taoji.wifiheatmap.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.taoji.wifiheatmap.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.taoji.wifiheatmap.app-mergeDebugResources-36:/layout/activity_heatmap.xml",
+        "source": "com.taoji.wifiheatmap.app-main-39:/layout/activity_heatmap.xml"
+    },
+    {
+        "merged": "com.taoji.wifiheatmap.app-mergeDebugResources-36:/layout/activity_collect.xml",
+        "source": "com.taoji.wifiheatmap.app-main-39:/layout/activity_collect.xml"
+    }
+]

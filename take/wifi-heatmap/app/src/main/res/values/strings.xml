@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Heatmap</string>
+    <string name="start_collection">开始扫描</string>
+    <string name="stop_collection">停止</string>
+    <string name="pause_collection">暂停</string>
+    <string name="view_heatmap">查看信号对比</string>
+    <string name="new_collection">新建采集</string>
+    <string name="session_label">采集会话</string>
+    <string name="readings_count">已采集 %d 条</string>
+    <string name="elapsed_time">已用时 %s</string>
+    <string name="no_data">暂无数据</string>
+    <string name="delete_session">删除会话</string>
+</resources>
