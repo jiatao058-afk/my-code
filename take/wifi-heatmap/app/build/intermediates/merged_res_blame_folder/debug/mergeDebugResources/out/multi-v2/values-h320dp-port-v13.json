@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.taoji.wifiheatmap.app-mergeDebugResources-35:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\taoji\\.gradle\\caches\\9.4.1\\transforms\\ea41c91c1f5cecc310f760cb223687c8\\transformed\\material-1.13.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

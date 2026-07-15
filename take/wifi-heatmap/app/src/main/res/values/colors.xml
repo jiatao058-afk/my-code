@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1B5E20</color>
+    <color name="primary_dark">#0D3B0F</color>
+    <color name="accent">#4CAF50</color>
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_background">#212121</color>
+
+    <!-- Heatmap colors -->
+    <color name="heatmap_excellent">#00E676</color>
+    <color name="heatmap_good">#76FF03</color>
+    <color name="heatmap_fair">#FFEA00</color>
+    <color name="heatmap_weak">#FF9100</color>
+    <color name="heatmap_very_weak">#FF1744</color>
+    <color name="heatmap_no_data">#E0E0E0</color>
+</resources>
